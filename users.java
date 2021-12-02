@@ -5,3 +5,6 @@ Wisdom
 Ladouce
 Jayden
 Angel
+Goddy
+Bethuel
+Jacy

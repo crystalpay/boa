@@ -8,3 +8,5 @@ Angel
 Goddy
 Bethuel
 Jacy
+Awah
+Stacy
